@@ -89,5 +89,5 @@ fontpostinst TTF
 
 %files
 %defattr(644,root,root,755)
-%doc README COPYING INSTALL FAQ QUOTES THANKS HISTORY CHANGELOG Gentium*.pdf
+%doc README COPYING FAQ QUOTES THANKS HISTORY CHANGELOG Gentium*.pdf
 %{ttffontsdir}/*.ttf
