@@ -8,7 +8,7 @@ Group:		Fonts
 Vendor:		SIL International
 Source0:	fonts-ttf-gentium-%{version}.tar.bz2
 # Source0-md5:	eacf8964738c130fdb8874ba419a6b58
-URL:		http://scripts.sil.org/
+URL:		http://scripts.sil.org/gentium/
 Requires(post,postun):	fontpostinst
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
