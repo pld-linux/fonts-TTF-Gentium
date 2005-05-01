@@ -39,7 +39,7 @@ The Gentium font family has received various awards from the
 publishing and typography community.
 
 For more details visit the SIL Computing and Writing Systems website:
-http://scripts.sil.org/ .
+<http://scripts.sil.org/>.
 
 %description -l pl
 Gentium (po ³acinie "nale¿±cy do narodów") to rodzina unikodowych
@@ -67,7 +67,7 @@ Rodzona fontów Gentium otrzyma³a ró¿ne nagrody od spo³eczno¶ci
 wydawców i typografów.
 
 Wiêcej szczegó³ów mo¿na znale¼æ na stronie SIL Computing and Writing
-Systems: http://scripts.sil.org/ .
+Systems: <http://scripts.sil.org/>.
 
 %prep
 %setup -q -n fonts-ttf-gentium-%{version}
