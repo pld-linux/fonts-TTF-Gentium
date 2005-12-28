@@ -1,13 +1,13 @@
 Summary:	Gentium (a typeface for the nations) - TrueType Fonts
 Summary(pl):	Gentium (krój pisma dla wielu narodów) - fonty TrueType
 Name:		fonts-TTF-Gentium
-Version:	1.0.1
+Version:	1.0.2
 Release:	0.9
-License:	Freeware - non-commercial, see COPYING
+License:	SIL Open Font License
 Group:		Fonts
 Vendor:		SIL International
 Source0:	fonts-ttf-gentium-%{version}.tar.bz2
-# Source0-md5:	eacf8964738c130fdb8874ba419a6b58
+# Source0-md5:	3782787e9ff010551066266d9defd0f2
 URL:		http://scripts.sil.org/gentium/
 Requires(post,postun):	fontpostinst
 BuildArch:	noarch
@@ -89,5 +89,5 @@ fontpostinst TTF
 
 %files
 %defattr(644,root,root,755)
-%doc README COPYING FAQ QUOTES THANKS HISTORY CHANGELOG Gentium*.pdf
+%doc README OFL *FAQ QUOTES FONTLOG Gentium*.pdf
 %{ttffontsdir}/*.ttf
