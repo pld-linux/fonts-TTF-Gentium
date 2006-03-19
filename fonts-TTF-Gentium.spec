@@ -2,7 +2,7 @@ Summary:	Gentium (a typeface for the nations) - TrueType Fonts
 Summary(pl):	Gentium (krój pisma dla wielu narodów) - fonty TrueType
 Name:		fonts-TTF-Gentium
 Version:	1.0.2
-Release:	0.9
+Release:	1
 License:	SIL Open Font License
 Group:		Fonts
 Vendor:		SIL International
