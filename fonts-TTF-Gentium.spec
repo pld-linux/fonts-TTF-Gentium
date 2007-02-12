@@ -1,5 +1,5 @@
 Summary:	Gentium (a typeface for the nations) - TrueType Fonts
-Summary(pl):	Gentium (krój pisma dla wielu narodów) - fonty TrueType
+Summary(pl.UTF-8):   Gentium (krÃ³j pisma dla wielu narodÃ³w) - fonty TrueType
 Name:		fonts-TTF-Gentium
 Version:	1.0.2
 Release:	1
@@ -41,32 +41,32 @@ publishing and typography community.
 For more details visit the SIL Computing and Writing Systems website:
 <http://scripts.sil.org/>.
 
-%description -l pl
-Gentium (po ³acinie "nale¿±cy do narodów") to rodzina unikodowych
-krojów pisma zaprojektowana aby umo¿liwiæ tworzenie czytelnych,
-wysokiej jako¶ci publikacji wielu odmiennym grupom etnicznym z ca³ego
-¶wiata, u¿ywaj±cym pisma ³aciñskiego. Wspiera szeroki zakres alfabetów
-opartych na ³aciñskim i zawiera glify odpowiadaj±ce wszystkim
-³aciñskim czê¶ciom Unikodu.
+%description -l pl.UTF-8
+Gentium (po Å‚acinie "naleÅ¼Ä…cy do narodÃ³w") to rodzina unikodowych
+krojÃ³w pisma zaprojektowana aby umoÅ¼liwiÄ‡ tworzenie czytelnych,
+wysokiej jakoÅ›ci publikacji wielu odmiennym grupom etnicznym z caÅ‚ego
+Å›wiata, uÅ¼ywajÄ…cym pisma Å‚aciÅ„skiego. Wspiera szeroki zakres alfabetÃ³w
+opartych na Å‚aciÅ„skim i zawiera glify odpowiadajÄ…ce wszystkim
+Å‚aciÅ„skim czÄ™Å›ciom Unikodu.
 
-Fonty by³y projektowane z my¶l± o tym, by by³y dobrze czytelne, w
-miarê zwarte i atrakcyjne wizualnie. Dodatkowe "rozszerzone" litery
-³aciñskie s± zaprojektowane tak, by naturalnie harmonizowa³y siê z
-tradycyjnymi 26. Diakrytyki s± traktowane z ostro¿no¶ci± i uwag± na
-ich u¿ycie. Gentium wspiera tak¿e zarówno staro¿ytn± jak i wspó³czesn±
-grekê, w³±cznie z wieloma alternatywnymi formami.
+Fonty byÅ‚y projektowane z myÅ›lÄ… o tym, by byÅ‚y dobrze czytelne, w
+miarÄ™ zwarte i atrakcyjne wizualnie. Dodatkowe "rozszerzone" litery
+Å‚aciÅ„skie sÄ… zaprojektowane tak, by naturalnie harmonizowaÅ‚y siÄ™ z
+tradycyjnymi 26. Diakrytyki sÄ… traktowane z ostroÅ¼noÅ›ciÄ… i uwagÄ… na
+ich uÅ¼ycie. Gentium wspiera takÅ¼e zarÃ³wno staroÅ¼ytnÄ… jak i wspÃ³Å‚czesnÄ…
+grekÄ™, wÅ‚Ä…cznie z wieloma alternatywnymi formami.
 
-GentiumAlt to alternatywny font z bardziej p³askimi diakrytykami,
-zaprojektowany szczególnie dla jêzyków u¿ywaj±cych wielu akcentów.
+GentiumAlt to alternatywny font z bardziej pÅ‚askimi diakrytykami,
+zaprojektowany szczegÃ³lnie dla jÄ™zykÃ³w uÅ¼ywajÄ…cych wielu akcentÃ³w.
 Wersja w cyrylicy jest w trakcie tworzenia i zostanie dodana w
-niedalekiej przysz³o¶ci. Zaczê³y siê pocz±tkowe prace nad dodatkowymi
-grubo¶ciami i rêcznym hintingiem, a uzupe³niaj±cy krój sans-serif
-znajduje siê w postaci embrionalnej.
+niedalekiej przyszÅ‚oÅ›ci. ZaczÄ™Å‚y siÄ™ poczÄ…tkowe prace nad dodatkowymi
+gruboÅ›ciami i rÄ™cznym hintingiem, a uzupeÅ‚niajÄ…cy krÃ³j sans-serif
+znajduje siÄ™ w postaci embrionalnej.
 
-Rodzona fontów Gentium otrzyma³a ró¿ne nagrody od spo³eczno¶ci
-wydawców i typografów.
+Rodzona fontÃ³w Gentium otrzymaÅ‚a rÃ³Å¼ne nagrody od spoÅ‚ecznoÅ›ci
+wydawcÃ³w i typografÃ³w.
 
-Wiêcej szczegó³ów mo¿na znale¼æ na stronie SIL Computing and Writing
+WiÄ™cej szczegÃ³Å‚Ã³w moÅ¼na znaleÅºÄ‡ na stronie SIL Computing and Writing
 Systems: <http://scripts.sil.org/>.
 
 %prep
