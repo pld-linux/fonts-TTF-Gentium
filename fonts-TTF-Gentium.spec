@@ -1,5 +1,5 @@
 Summary:	Gentium (a typeface for the nations) - TrueType Fonts
-Summary(pl.UTF-8):   Gentium (krój pisma dla wielu narodów) - fonty TrueType
+Summary(pl.UTF-8):	Gentium (krój pisma dla wielu narodów) - fonty TrueType
 Name:		fonts-TTF-Gentium
 Version:	1.0.2
 Release:	1
